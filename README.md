@@ -58,7 +58,7 @@ NOTE : It is a scoring-based system where the URL is first assigned the highest 
 
 1. Git clone the project repository on your local system
 ```
-git clone https://github.com/deepeshdm/Phishr-API.git
+git clone https://github.com/thisiskcn07/WebGuardian.git
 ```
 
 2. Install dependencies in requirements.txt
